@@ -25,11 +25,11 @@ function Skills({ heading, hardSkills, softSkills }) {
           {heading}
         </h2>
         <div class="language-icons">
-          <img src="../../../public/javascript.png" alt="html"></img>
-          <img src="https://saadkureshi.github.io/public/images/html-logo.png" alt="html"></img>
-          <img src="https://saadkureshi.github.io/public/images/html-logo.png" alt="html"></img>
-          <img src="https://saadkureshi.github.io/public/images/html-logo.png" alt="html"></img>
-          <img src="https://saadkureshi.github.io/public/images/html-logo.png" alt="html"></img>
+          <img src="https://github.com/kvnchu2/home/blob/master/public/html.png?raw=true" alt="html"></img>
+          <img src="https://github.com/kvnchu2/home/blob/master/public/css.png?raw=true" alt="html"></img>
+          <img src="https://github.com/kvnchu2/home/blob/master/public/javascript.png?raw=true" alt="html"></img>
+          <img src="https://github.com/kvnchu2/home/blob/master/public/ruby.png?raw=true" alt="html"></img>
+          <img src="https://github.com/kvnchu2/home/blob/master/public/rails.png?raw=true" alt="html"></img>
         </div>
         {/* <Tabs
           className="skills-tabs"
