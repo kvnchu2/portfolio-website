@@ -135,3 +135,10 @@ code {
   height: auto;
   padding: 0.5rem;
 }
+
+.language-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
