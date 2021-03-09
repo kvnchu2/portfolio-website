@@ -24,7 +24,14 @@ function Skills({ heading, hardSkills, softSkills }) {
         <h2 ref={skillsTabRef} className="display-4 pb-5 text-center">
           {heading}
         </h2>
-        <Tabs
+        <div class="language-icons">
+          <img src="../../../public/javascript.png" alt="html"></img>
+          <img src="https://saadkureshi.github.io/public/images/html-logo.png" alt="html"></img>
+          <img src="https://saadkureshi.github.io/public/images/html-logo.png" alt="html"></img>
+          <img src="https://saadkureshi.github.io/public/images/html-logo.png" alt="html"></img>
+          <img src="https://saadkureshi.github.io/public/images/html-logo.png" alt="html"></img>
+        </div>
+        {/* <Tabs
           className="skills-tabs"
           defaultActiveKey="hard-skills"
           id="skills-tabs"
@@ -47,7 +54,7 @@ function Skills({ heading, hardSkills, softSkills }) {
               <SkillsTab skills={softSkills} isScrolled={isScrolled} />
             </Row>
           </Tab>
-        </Tabs>
+        </Tabs> */}
       </Container>
     </Jumbotron>
   );
