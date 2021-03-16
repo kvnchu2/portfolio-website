@@ -25,13 +25,13 @@ function Skills({ heading, hardSkills, softSkills }) {
           {heading}
         </h2>
         <div class="language-icons">
-          <img src="https://github.com/kvnchu2/home/blob/master/public/html.png?raw=true" alt="html"></img>
-          <img src="https://github.com/kvnchu2/home/blob/master/public/css.png?raw=true" alt="html"></img>
-          <img src="https://github.com/kvnchu2/home/blob/master/public/javascript.png?raw=true" alt="html"></img>
-          <img src="https://github.com/kvnchu2/home/blob/master/public/ruby.png?raw=true" alt="html"></img>
-          <img src="https://github.com/kvnchu2/home/blob/master/public/rails.png?raw=true" alt="html"></img>
-          <img src="https://github.com/kvnchu2/home/blob/master/public/sass.png?raw=true" alt="html"></img>
-          <img src="https://github.com/kvnchu2/home/blob/master/public/mongoDB.png?raw=true" alt="html"></img>
+          <img src="https://github.com/kvnchu2/portfolio-website/blob/master/public/html.png?raw=true" alt="html"></img>
+          <img src="https://github.com/kvnchu2/portfolio-website/blob/master/public/css.png?raw=true" alt="html"></img>
+          <img src="https://github.com/kvnchu2/portfolio-website/blob/master/public/javascript.png?raw=true" alt="html"></img>
+          <img src="https://github.com/kvnchu2/portfolio-website/blob/master/public/ruby.png?raw=true" alt="html"></img>
+          <img src="https://github.com/kvnchu2/portfolio-website/blob/master/public/rails.png?raw=true" alt="html"></img>
+          <img src="https://github.com/kvnchu2/portfolio-website/blob/master/public/sass.png?raw=true" alt="html"></img>
+          <img src="https://github.com/kvnchu2/portfolio-website/blob/master/public/mongoDB.png?raw=true" alt="html"></img>
           <img src="https://raw.githubusercontent.com/cncf/landscape/bdfb4dbd38462ab28d3600e83cd721b2642c756d/hosted_logos/postgre-sql.svg" alt="html"></img>
         </div>
         {/* <Tabs
