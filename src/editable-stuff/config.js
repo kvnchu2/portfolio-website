@@ -48,7 +48,7 @@ const about = {
 
   message:
     "My name is Kevin Chu. In my previous job as a Kinesiologist, I did basic scripting for google sheets to help automate tasks, which sparked my interest in coding. From there, I enrolled in Lighthouse Labs Web Development Bootcamp to pursue a career in tech.",
-  resume: "https://www.canva.com/design/DAEVyR9huzo/RCy1rVIS8Ez0KXbnvzL2jg/edit",
+  resume: "https://resume.creddle.io/resume/efkkgk07ebl",
 };
 
 // PROJECTS SECTION
