@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c9cac67.chunk.css",
+    "main.js": "/static/js/main.265917bb.chunk.js",
+    "main.js.map": "/static/js/main.265917bb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.ecd86734.chunk.js": "/static/js/2.ecd86734.chunk.js",
+    "static/js/2.ecd86734.chunk.js.map": "/static/js/2.ecd86734.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8da8ae4be716c5ae5f012245e3e6a915.js": "/precache-manifest.8da8ae4be716c5ae5f012245e3e6a915.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4c9cac67.chunk.css.map": "/static/css/main.4c9cac67.chunk.css.map",
+    "static/js/2.ecd86734.chunk.js.LICENSE.txt": "/static/js/2.ecd86734.chunk.js.LICENSE.txt",
+    "static/media/hashirshoaeb.png": "/static/media/hashirshoaeb.32f6b574.png",
+    "static/media/kevin-bio.png": "/static/media/kevin-bio.e67032ae.png",
+    "static/media/resume.pdf": "/static/media/resume.9d3da0e2.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.ecd86734.chunk.js",
+    "static/css/main.4c9cac67.chunk.css",
+    "static/js/main.265917bb.chunk.js"
+  ]
+}
