@@ -32,7 +32,7 @@ function Skills({ heading, hardSkills, softSkills }) {
           <img src="https://github.com/kvnchu2/home/blob/master/public/rails.png?raw=true" alt="html"></img>
           <img src="https://github.com/kvnchu2/home/blob/master/public/sass.png?raw=true" alt="html"></img>
           <img src="https://github.com/kvnchu2/home/blob/master/public/mongoDB.png?raw=true" alt="html"></img>
-          <img src="https://github.com/kvnchu2/home/blob/master/public/psql.png?raw=true" alt="html"></img>
+          <img src="https://raw.githubusercontent.com/cncf/landscape/bdfb4dbd38462ab28d3600e83cd721b2642c756d/hosted_logos/postgre-sql.svg" alt="html"></img>
         </div>
         {/* <Tabs
           className="skills-tabs"
