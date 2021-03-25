@@ -24,6 +24,7 @@ function Skills({ heading, hardSkills, softSkills }) {
         <h2 ref={skillsTabRef} className="display-4 pb-5 text-center">
           {heading}
         </h2>
+        https://github.com/kvnchu2/portfolio-website/blob/master/public/javascript.png?raw=true
         <div class="language-icons">
           <img src="https://github.com/kvnchu2/portfolio-website/blob/master/public/html.png?raw=true" alt="html"></img>
           <img src="https://github.com/kvnchu2/portfolio-website/blob/master/public/css.png?raw=true" alt="html"></img>

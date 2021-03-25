@@ -12,15 +12,15 @@ const mainBody = {
   message: " Web Developer | Fitness-enthusiast | Lifelong learner ",
   icons: [
     {
-      image: "fa-github",
+      image: "fab fa-github",
       url: "https://github.com/kvnchu2",
     },
     {
-      image: "fa-linkedin",
+      image: "fab fa-linkedin",
       url: "https://www.linkedin.com/in/kevin-chu2/",
     },
     {
-      image: "fa-twitter",
+      image: "fas fa-envelope-square",
       url: "https://twitter.com/kaiwunchew",
     },
   ],
